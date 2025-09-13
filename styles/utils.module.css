@@ -1,0 +1,25 @@
+/* styles/utils.module.css */
+
+/* Existing class */
+.headingMd {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+/* Custom styles for intro text */
+.intro {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #1e3a8a; /* deep blue */
+  margin-bottom: 1rem;
+}
+
+/* Custom styles for description paragraph */
+.description {
+  background: #f0f9ff;
+  padding: 1rem;
+  border-left: 4px solid #0ea5e9; /* cyan highlight */
+  border-radius: 8px;
+  font-style: italic;
+  line-height: 1.6;
+}

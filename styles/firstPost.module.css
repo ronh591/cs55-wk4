@@ -1,0 +1,25 @@
+/* Container for the post page */
+.postContainer {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: #f9fafb; /* light gray */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Post title styling */
+.postTitle {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1e3a8a; /* deep blue */
+  margin-bottom: 1rem;
+}
+
+/* Post subtitle or link container */
+.postSubtitle {
+  font-size: 1.2rem;
+  color: #0ea5e9; /* cyan */
+  font-weight: bold;
+  margin-top: 1.5rem;
+}
